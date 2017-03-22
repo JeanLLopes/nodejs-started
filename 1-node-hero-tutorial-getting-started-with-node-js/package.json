@@ -1,0 +1,20 @@
+{
+  "name": "started-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanLLopes/nodejs-started.git"
+  },
+  "author": "Jean Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanLLopes/nodejs-started/issues"
+  },
+  "homepage": "https://github.com/JeanLLopes/nodejs-started#readme"
+}
